@@ -22,4 +22,7 @@ model training.
 ## Performence Evaluation
 ![acuracy](https://github.com/user-attachments/assets/2a6152a5-cce2-468e-b136-9681306b25d0)
 
+## Contributors
+https://github.com/MrfoxAK/Music-Recommendation-Model-Based-on-Emotion-Detection-Using-Pulse-Rate-and-Stress-Measurement/graphs/contributors
+
 
