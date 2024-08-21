@@ -16,13 +16,11 @@ model training.
 ## Bi-Directional LSTM architecture
 ![Screenshot 2024-08-21 220423](https://github.com/user-attachments/assets/83b493c3-d91a-4699-91e8-c18532958f18)
 
-##Total Architecture
+## Total Architecture
 ![update](https://github.com/user-attachments/assets/b12774e1-eb09-4e14-b720-dae62bc78189)
 
 ## Performence Evaluation
 ![acuracy](https://github.com/user-attachments/assets/2a6152a5-cce2-468e-b136-9681306b25d0)
 
-## Contributors
-https://github.com/MrfoxAK/Evaluate-Lip-reading-using-Deep-Learning-Techniques/graphs/contributors
 
 
