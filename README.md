@@ -4,6 +4,12 @@ This paper explores Silent Sound Technology, focusing on its potential to enhanc
 ## Dataset:
 LRW, GRID, LRS2, LRS3-TED, VoxCeleb2, CAS-VSR-W1k(LRW-1000
 
+### Contact
+For any questions or feedback, please contact 
+[Debojyoti Bhuinya](https://debojyotibhuinya-portfolio.netlify.app/),
+[Subhamay Ganguly](https://www.linkedin.com/in/subhamay-ganguly-526972248/),
+[Akash Das](https://www.linkedin.com/in/akash-das-80b356230/),
+
 ## Proposed Methodology
 In this section, we describe the methodology employed for preprocessing video data,
 aligning it with textual content, and training a neural network model for a specific
